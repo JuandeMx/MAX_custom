@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "3.7",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=60",
-  "changelog": "• v3.7: Corrección total de desconexiones e inactividad en segundo plano con keep-alive RFC 4253 cada 15s y High-Perf WiFi Lock. Menú lateral optimizado (Maximus C J&J GRUP, agradecimientos actualizados, acceso directo Payload). Casillas de verificación corregidas con selector ámbar nítido. Menú superior con alto contraste. Sección de notas de configuración visible y dinámica en pantalla principal."
+  "versionCode": 61,
+  "versionName": "3.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=61",
+  "changelog": "• v3.7.1: Notas de configuración ahora renderizan HTML completo con links clicables (WhatsApp, grupos, etc). Mensaje del servidor en logs limpio sin etiquetas HTML. Incluye todas las mejoras de v3.7: anti-desconexión keep-alive RFC4253, WiFi Lock, checkboxes ámbar, menú optimizado."
 }
