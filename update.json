@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "3.1",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=49",
-  "changelog": "• v3.1: Rediseño completo estilo HTTP Custom (Http LTM), métricas de red en tiempo real y optimizaciones."
+  "versionCode": 50,
+  "versionName": "3.2",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=50",
+  "changelog": "• v3.2: Actualización oficial de interfaz a M-Tunnel, mejoras de estabilidad y rendimiento."
 }
