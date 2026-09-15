@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "3.6",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=59",
-  "changelog": "• v3.6: Nueva interfaz táctil neumórfica basada en el sistema de diseño oficial de la plantilla (Charcoal Mate & Sunset Amber). Power Hub táctil con gradientes cálidos, tarjetas métricas de telemetría con ecualizador amber, y casillas de verificación táctiles."
+  "versionCode": 60,
+  "versionName": "3.7",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=60",
+  "changelog": "• v3.7: Corrección total de desconexiones e inactividad en segundo plano con keep-alive RFC 4253 cada 15s y High-Perf WiFi Lock. Menú lateral optimizado (Maximus C J&J GRUP, agradecimientos actualizados, acceso directo Payload). Casillas de verificación corregidas con selector ámbar nítido. Menú superior con alto contraste. Sección de notas de configuración visible y dinámica en pantalla principal."
 }
