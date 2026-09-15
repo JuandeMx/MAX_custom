@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "3.5",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=58",
-  "changelog": "• v3.5: Rediseño minimalista y profesional de la interfaz. Corrección y activación total de V2Ray Core, Hysteria UDP y Proxy Hotspot (Compartir Internet) en barra lateral."
+  "versionCode": 59,
+  "versionName": "3.6",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=59",
+  "changelog": "• v3.6: Nueva interfaz táctil neumórfica basada en el sistema de diseño oficial de la plantilla (Charcoal Mate & Sunset Amber). Power Hub táctil con gradientes cálidos, tarjetas métricas de telemetría con ecualizador amber, y casillas de verificación táctiles."
 }
