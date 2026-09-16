@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "3.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=62",
-  "changelog": "• v3.7.2: Banner del servidor en logs ahora muestra texto limpio con saltos de línea correctos (sin etiquetas HTML crudas). Emojis y links preservados."
+  "versionCode": 63,
+  "versionName": "3.7.3",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=63",
+  "changelog": "• v3.7.3: Banner del servidor en logs ahora renderiza HTML con colores y formato completo (como en el panel). Solo se limpian códigos ANSI y comentarios HTML."
 }
