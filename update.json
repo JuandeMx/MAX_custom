@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "3.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=61",
-  "changelog": "• v3.7.1: Notas de configuración ahora renderizan HTML completo con links clicables (WhatsApp, grupos, etc). Mensaje del servidor en logs limpio sin etiquetas HTML. Incluye todas las mejoras de v3.7: anti-desconexión keep-alive RFC4253, WiFi Lock, checkboxes ámbar, menú optimizado."
+  "versionCode": 62,
+  "versionName": "3.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=62",
+  "changelog": "• v3.7.2: Banner del servidor en logs ahora muestra texto limpio con saltos de línea correctos (sin etiquetas HTML crudas). Emojis y links preservados."
 }
