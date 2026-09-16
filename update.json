@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "3.7.3",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=63",
-  "changelog": "• v3.7.3: Banner del servidor en logs ahora renderiza HTML con colores y formato completo (como en el panel). Solo se limpian códigos ANSI y comentarios HTML."
+  "versionCode": 64,
+  "versionName": "3.7.4",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=64",
+  "changelog": "• v3.7.4: Soporte para 'VPN siempre activa' en Ajustes de Android y registro de la app en la lista de VPNs del sistema."
 }
