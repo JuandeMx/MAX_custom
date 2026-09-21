@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "3.7.4",
-  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=64",
-  "changelog": "• v3.7.4: Soporte para 'VPN siempre activa' en Ajustes de Android y registro de la app en la lista de VPNs del sistema."
+  "versionCode": 65,
+  "versionName": "3.7.5",
+  "apkUrl": "https://raw.githubusercontent.com/JuandeMx/MAX_custom/main/app-release.apk?v=65",
+  "changelog": "• v3.7.5: Mejoras de seguridad y banner SSH."
 }
